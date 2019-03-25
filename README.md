@@ -7,3 +7,5 @@
 
 ### Contribution-Points
 
+## How to create a top menu
+@theia/core/src/browser/common-frontend-contribution.ts
